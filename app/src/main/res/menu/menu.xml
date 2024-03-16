@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Dashboard"
+            android:icon="@drawable/all_out"
+            android:title="Your dashboard"/>
+
+        <item
+            android:id="@+id/ScreenTime"
+            android:icon="@drawable/all_out"
+            android:title="Customize your Screen time"/>
+
+        <item
+            android:id="@+id/ActivityScheduler"
+            android:icon="@drawable/all_out"
+            android:title="Activity Scheduler"/>
+
+        <item
+            android:id="@+id/Reminders"
+            android:icon="@drawable/all_out"
+            android:title="Mindful Reminders"/>
+
+        <item
+            android:id="@+id/FocusMode"
+            android:icon="@drawable/all_out"
+            android:title="Activate Focus Mode"/>
+
+        <item
+            android:id="@+id/Challenges"
+            android:icon="@drawable/all_out"
+            android:title="View Challenges"/>
+
+        <item
+            android:id="@+id/StudyPaddy"
+            android:icon="@drawable/all_out"
+            android:title="Study Paddy"/>
+        <item
+            android:id="@+id/OfflineWShops"
+            android:icon="@drawable/all_out"
+            android:title="Offline Workshops(Skills)"/>
+
+        <item
+            android:id="@+id/AchievementsB"
+            android:icon="@drawable/all_out"
+            android:title="Achievements and Badges"/>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/ShareApp"
+                android:icon="@drawable/all_out"
+                android:title="Share App"/>
+
+            <item
+                android:id="@+id/chatbot"
+                android:icon="@drawable/all_out"
+                android:title="Chat with Eve"/>
+
+        </menu>
+
+    </item>
+
+    <item
+        android:id="@+id/Logout"
+        android:icon="@drawable/all_out"
+        android:title="Logout"/>
+
+</menu>

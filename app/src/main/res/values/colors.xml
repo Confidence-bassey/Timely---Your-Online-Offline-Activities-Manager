@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="TomThumb">#385240</color>
+    <color name="Botticelli">#D6E2E9</color>
+    <color name="HavelockBlue">#5D94D8</color>
+    <color name="AquaIsland">#9CBFDB</color>
+    <color name="pink">#FFFFFFFF</color>
+    <color name="Astray">#317DB0</color>
+    <color name="Sapphire_Blue">#0F52BA</color>
+    <color name="Dark_Pink">#AA336A</color>
+    <color name="Sunset_Orange">#FA5F55</color>
+    <color name="B1">#0F52BA</color>
+    <color name="B2">#4682B4</color>
+    <color name="Pelorous">#3BBEC8</color>
+
+
+
+
+
+
+</resources>

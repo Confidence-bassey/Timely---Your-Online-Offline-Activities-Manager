@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66183210215",
+    "project_id": "timely-mindfulmix-c499c",
+    "storage_bucket": "timely-mindfulmix-c499c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66183210215:android:3e040f406fcd1c2a0c6e42",
+        "android_client_info": {
+          "package_name": "com.confidenceb.mindfulmix_onlineofflineactivitiesmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd4A89N_lpwAXidP58mvQwZQOqDCGqA90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
